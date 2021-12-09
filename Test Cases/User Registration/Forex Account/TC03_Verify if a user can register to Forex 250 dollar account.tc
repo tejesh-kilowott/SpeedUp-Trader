@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Verify if a user can register to Forex 250 dollar account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6f08235-8d8b-4af5-aa1e-31fad64a2d39</testCaseGuid>
+</TestCaseEntity>
