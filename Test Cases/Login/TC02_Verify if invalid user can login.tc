@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verify if invalid user can login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75ad2934-da20-442c-8349-7f958a8b8c4a</testCaseGuid>
+</TestCaseEntity>

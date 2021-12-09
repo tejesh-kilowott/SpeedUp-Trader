@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Verify if user can register to Rhithmic 150 dollar account (Non-Professional Trader)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab526c60-234e-4cfb-b85f-17489d00e8e2</testCaseGuid>
+</TestCaseEntity>

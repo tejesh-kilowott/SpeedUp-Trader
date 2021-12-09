@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Verify if user can register to Rhithimc 310 dollar account (Non Professional Trader)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f788d175-aeac-45f9-8ce0-c7981e78486c</testCaseGuid>
+</TestCaseEntity>
