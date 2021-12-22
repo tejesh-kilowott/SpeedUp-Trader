@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify if a rhithmic user can add a new rhithmic 150 dollar account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faad0446-af97-4fb7-91d3-dc299c0f4a77</testCaseGuid>
+</TestCaseEntity>
