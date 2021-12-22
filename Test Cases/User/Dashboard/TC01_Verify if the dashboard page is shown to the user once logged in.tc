@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify if the dashboard page is shown to the user once logged in</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52b780cf-aa0e-4c5b-b9e9-e906f1c14d2a</testCaseGuid>
+</TestCaseEntity>

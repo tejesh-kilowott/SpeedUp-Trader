@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verify if a cqg user can add a new cqg 160 dollar acount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaee30b0-fde0-46da-bc44-707ee4accfda</testCaseGuid>
+</TestCaseEntity>

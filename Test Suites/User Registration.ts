@@ -69,18 +69,18 @@
       <guid>6483fdee-447a-4e4c-904a-6d520cb3eb47</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User Registration/Forex Account/TC01_Verify if a user can register to Forex 120 dollar account</testCaseId>
+      <testCaseId>Test Cases/User Registration/Forex Account/TC10_Verify if a user can register to Forex 120 dollar account</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>f135d5a6-97c8-47a8-99c1-eb1751d80012</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User Registration/Forex Account/TC02_Verify if a user can register to Forex 150 dollar account</testCaseId>
+      <testCaseId>Test Cases/User Registration/Forex Account/TC11_Verify if a user can register to Forex 150 dollar account</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>5fe279f5-521a-4703-89f5-5859e8123af9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User Registration/Forex Account/TC03_Verify if a user can register to Forex 250 dollar account</testCaseId>
+      <testCaseId>Test Cases/User Registration/Forex Account/TC12_Verify if a user can register to Forex 250 dollar account</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

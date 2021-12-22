@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC01_Verify if a user can register to Forex 120 dollar account</name>
+   <name>TC10_Verify if a user can register to Forex 120 dollar account</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a91af75b-305a-4f69-91d8-010e073a356c</testCaseGuid>

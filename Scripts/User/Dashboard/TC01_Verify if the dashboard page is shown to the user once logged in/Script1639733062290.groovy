@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Login Page/Password_textbox'), GlobalVariable.Pass
 
 WebUI.click(findTestObject('Login Page/Login_button'))
 
-WebUI.verifyElementPresent(findTestObject('User/Dashboard Page/Trade_button'), 0)
+WebUI.verifyElementPresent(findTestObject('User/Dashboard Page/Select_account_dropdown'), 0)
 
 WebUI.closeBrowser()
 
