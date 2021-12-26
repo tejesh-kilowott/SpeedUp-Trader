@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verify if a cqg user can add a new forex 150 dollar account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d0d1819-52b4-4042-99fd-3d2827966c7f</testCaseGuid>
+</TestCaseEntity>

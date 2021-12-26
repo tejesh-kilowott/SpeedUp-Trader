@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify if a cqg user can reset a cqg account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>691199dd-7d00-4d1e-93b4-913a558029f5</testCaseGuid>
+</TestCaseEntity>

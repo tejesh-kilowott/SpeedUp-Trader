@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify if a cqg user can reset a rhithmic account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac4b0d20-6a53-473a-baeb-aa559116ce9d</testCaseGuid>
+</TestCaseEntity>
