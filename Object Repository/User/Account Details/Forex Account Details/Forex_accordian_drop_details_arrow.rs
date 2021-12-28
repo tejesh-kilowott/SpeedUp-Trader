@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Rhithmic_accordian_button</name>
+   <name>Forex_accordian_drop_details_arrow</name>
    <tag></tag>
-   <elementGuidId>42b7100f-ec43-4bda-aa3a-be6581c7b28b</elementGuidId>
+   <elementGuidId>4e1e2f75-2ae5-47cb-81ef-004c6a2adf6b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//div[@class='account-details-body']//i[@class='fa fa-plus max-min-icon'])[3]</value>
+         <value>//img[@id='arrowDownForex']</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

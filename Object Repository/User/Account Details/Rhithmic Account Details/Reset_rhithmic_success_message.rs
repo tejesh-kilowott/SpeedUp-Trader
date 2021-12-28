@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Rhithmic_accordian_button</name>
+   <name>Reset_rhithmic_success_message</name>
    <tag></tag>
-   <elementGuidId>42b7100f-ec43-4bda-aa3a-be6581c7b28b</elementGuidId>
+   <elementGuidId>00c50c26-7f7b-484d-8794-6eccb6df6850</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//div[@class='account-details-body']//i[@class='fa fa-plus max-min-icon'])[3]</value>
+         <value>//p[contains(text(),'Your payment was successfull. The reset of your trading account is in process. You will see the new account in your dashboard once the reset is completed.')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

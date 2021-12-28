@@ -29,11 +29,11 @@ WebUI.click(findTestObject('Login Page/Login_button'))
 
 WebUI.click(findTestObject('User/Account Details/AccountDetails_link'))
 
-WebUI.click(findTestObject('User/Account Details/Rhithmic_accordian_button'))
+WebUI.click(findTestObject('User/Account Details/Forex_accordian_button'))
 
-WebUI.click(findTestObject('User/Account Details/Rhithmic Account Details/Rhithmic_accordian_drop_details_arrow'))
+WebUI.click(findTestObject('User/Account Details/Forex Account Details/Forex_accordian_drop_details_arrow'))
 
-WebUI.click(findTestObject('User/Account Details/Rhithmic Account Details/Rhithmic_reset_button'))
+WebUI.click(findTestObject('User/Account Details/Forex Account Details/Forex_reset_button'))
 
 WebUI.click(findTestObject('User/Account Details/CQG Account Details/Credit_card_button'))
 
@@ -47,8 +47,7 @@ WebUI.setText(findTestObject('User/Account Details/Add Futures Account/Stripe_ca
 
 WebUI.click(findTestObject('User/Account Details/Add Futures Account/Stripe_card_subscribe_button'))
 
-WebUI.verifyElementPresent(findTestObject('User/Account Details/Rhithmic Account Details/Reset_rhithmic_success_message'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('User/Account Details/Forex Account Details/Reset_forex_success_message'), 0)
 
 WebUI.click(findTestObject('User/Logout_button'))
 

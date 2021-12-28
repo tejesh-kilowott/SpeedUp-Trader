@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Rhithmic_accordian_button</name>
+   <name>Forex_reset_button</name>
    <tag></tag>
-   <elementGuidId>42b7100f-ec43-4bda-aa3a-be6581c7b28b</elementGuidId>
+   <elementGuidId>27764141-1e76-41af-9d55-8635e46d6ec0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//div[@class='account-details-body']//i[@class='fa fa-plus max-min-icon'])[3]</value>
+         <value>//a[@data-tipso='Reset Account']//img</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

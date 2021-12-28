@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify if a cqg user can reset a forex account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8ea2da8-f75b-47f7-af53-dce8f9f571cd</testCaseGuid>
+</TestCaseEntity>
