@@ -83,4 +83,28 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/User Registration/Forex Account/TC12_Verify if a user can register to Forex 250 dollar account</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>9472015e-46c0-428e-b219-0cb45e198c15</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User Registration/Futures Account/TC10_Verify if a user can register to CQG account with 10 percent coupon</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>10628629-563e-4d18-8e79-abb88f953c6f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User Registration/Futures Account/TC11_Verify if a user can register to CQG account with 100 percent coupon</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a248882a-01f1-4982-b516-54d1150ab50c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User Registration/Futures Account/TC12_Verify if a user can register to Rhithmic account with 10 percent coupon</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>44c3d0d6-b768-435b-b17f-c53f80734c37</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User Registration/Futures Account/TC13_Verify if a user can register to Rhithmic account with 100 percent coupon</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

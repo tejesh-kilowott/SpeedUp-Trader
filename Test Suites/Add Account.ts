@@ -93,7 +93,7 @@
       <guid>7bfd8d91-839f-48b2-8a57-1b161fb17318</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User/Account Details/Add CQG Account/TC09_Verify if a user can add a new cqg 310 dollar account with 100 percent off coupon</testCaseId>
+      <testCaseId>Test Cases/User/Account Details/Add CQG Account/TC09_Verify if a user can add a new cqg 310 dollar account with 10 percent off coupon</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>91583047-f776-4675-be1e-71dab07946e7</guid>
