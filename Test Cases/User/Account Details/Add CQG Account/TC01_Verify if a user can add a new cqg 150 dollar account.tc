@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC01_Verify if a cqg user can add a new cqg 150 dollar account</name>
+   <name>TC01_Verify if a user can add a new cqg 150 dollar account</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ada73aa1-d9c2-45e4-ae60-09d4f1aa7860</testCaseGuid>

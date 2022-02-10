@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify if a cqg user can cancel a forex account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f60b8c0-751c-451c-ad75-534ed58c6eee</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Verify if a user can add a new forex 120 dollar account with 100 percent off coupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d189e6fc-aefc-4e78-887a-f059a88183de</testCaseGuid>
+</TestCaseEntity>

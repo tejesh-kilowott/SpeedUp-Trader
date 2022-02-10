@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Verify if a user can add a new cqg 150 dollar account with 100 percent off coupon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3a41235-5918-4b64-b407-a1fc35c9372d</testCaseGuid>
+</TestCaseEntity>

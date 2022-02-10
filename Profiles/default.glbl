@@ -34,4 +34,24 @@
       <initValue>'......,.,.,..,..1.,.,.,..,.,.,......2.,.,.,..,.,.,,.......4.,.,..,.,.,..,.,.,.......4.....,,,,.,,,,'</initValue>
       <name>CardDate</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test0'</initValue>
+      <name>Coupon100</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test10'</initValue>
+      <name>Coupon10</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'zero'</initValue>
+      <name>forexCoupon100</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ten'</initValue>
+      <name>forexCoupon10</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
