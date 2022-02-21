@@ -23,47 +23,47 @@ WebUI.click(findTestObject('Index Page/150_plan_select_button'))
 
 WebUI.delay(5)
 
-WebUI.sendKeys(findTestObject('Register Page/Firstname_textbox'), 'asdasdas')
+WebUI.sendKeys(findTestObject('User Register Page/Firstname_textbox'), 'asdasdas')
 
-WebUI.sendKeys(findTestObject('Register Page/Lastname_textbox'), 'sdasdadsa')
+WebUI.sendKeys(findTestObject('User Register Page/Lastname_textbox'), 'sdasdadsa')
 
-WebUI.sendKeys(findTestObject('Register Page/Phonenumber_textbox'), '123131')
+WebUI.sendKeys(findTestObject('User Register Page/Phonenumber_textbox'), '123131')
 
 int RN
 
 RN = ((Math.random() * 1000) as int)
 
-WebUI.sendKeys(findTestObject('Register Page/Emailid_textbox'), ('john' + RN) + '@email.com')
+WebUI.sendKeys(findTestObject('User Register Page/Emailid_textbox'), ('john' + RN) + '@email.com')
 
-WebUI.selectOptionByValue(findTestObject('Register Page/Language_dropdown'), '1', false)
+WebUI.selectOptionByValue(findTestObject('User Register Page/Language_dropdown'), '1', false)
 
-WebUI.sendKeys(findTestObject('Register Page/Username_textbox'), 'john' + RN)
+WebUI.sendKeys(findTestObject('User Register Page/Username_textbox'), 'john' + RN)
 
-WebUI.sendKeys(findTestObject('Register Page/Password_textbox'), 'Test@123')
+WebUI.sendKeys(findTestObject('User Register Page/Password_textbox'), 'Test@123')
 
-WebUI.sendKeys(findTestObject('Register Page/Confirmpassword_textbox'), 'Test@123')
+WebUI.sendKeys(findTestObject('User Register Page/Confirmpassword_textbox'), 'Test@123')
 
-WebUI.sendKeys(findTestObject('Register Page/Address_textbox'), 'address')
+WebUI.sendKeys(findTestObject('User Register Page/Address_textbox'), 'address')
 
-WebUI.sendKeys(findTestObject('Register Page/City_textbox'), 'city')
+WebUI.sendKeys(findTestObject('User Register Page/City_textbox'), 'city')
 
-WebUI.sendKeys(findTestObject('Register Page/Postcode_textbox'), '123')
+WebUI.sendKeys(findTestObject('User Register Page/Postcode_textbox'), '123')
 
-WebUI.selectOptionByValue(findTestObject('Register Page/Country_dropdown'), '14', false)
+WebUI.selectOptionByValue(findTestObject('User Register Page/Country_dropdown'), '14', false)
 
-WebUI.sendKeys(findTestObject('Register Page/Cardnumber_textbox'), GlobalVariable.CardNumber)
+WebUI.sendKeys(findTestObject('User Register Page/Cardnumber_textbox'), GlobalVariable.CardNumber)
 
-WebUI.sendKeys(findTestObject('Register Page/Carddate_textbox'), GlobalVariable.CardDate)
+WebUI.sendKeys(findTestObject('User Register Page/Carddate_textbox'), GlobalVariable.CardDate)
 
-WebUI.sendKeys(findTestObject('Register Page/CVC_textbox'), GlobalVariable.CVC)
+WebUI.sendKeys(findTestObject('User Register Page/CVC_textbox'), GlobalVariable.CVC)
 
-WebUI.sendKeys(findTestObject('Register Page/Coupon_code_textbox'), GlobalVariable.Coupon100)
+WebUI.sendKeys(findTestObject('User Register Page/Coupon_code_textbox'), GlobalVariable.Coupon100)
 
-WebUI.click(findTestObject('Register Page/Coupon_code_button'))
+WebUI.click(findTestObject('User Register Page/Coupon_code_button'))
 
-WebUI.check(findTestObject('Register Page/Agree_checkbox'))
+WebUI.check(findTestObject('User Register Page/Agree_checkbox'))
 
-WebUI.click(findTestObject('Register Page/Submit_button'))
+WebUI.click(findTestObject('User Register Page/Submit_button'))
 
 url = 'https://staging.speeduptrader.com/FutureRegister/RegistrationSuccessful'
 

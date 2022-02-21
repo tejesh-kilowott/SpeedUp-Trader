@@ -27,20 +27,20 @@ WebUI.setText(findTestObject('Login Page/Password_textbox'), GlobalVariable.Pass
 
 WebUI.click(findTestObject('Login Page/Login_button'))
 
-WebUI.click(findTestObject('User/Account Details Page/AccountDetails_link'))
+WebUI.click(findTestObject('Account Details Page/AccountDetails_link'))
 
-WebUI.click(findTestObject('User/Account Details Page/Forex_accordian_button'))
+WebUI.click(findTestObject('Account Details Page/Forex_accordian_button'))
 
-WebUI.click(findTestObject('User/Account Details Page/Forex Account Details/Forex_accordian_drop_details_arrow'))
+WebUI.click(findTestObject('Account Details Page/Forex Account Details/Forex_accordian_drop_details_arrow'))
 
-WebUI.click(findTestObject('User/Account Details Page/Forex Account Details/Forex_cancel_button'))
+WebUI.click(findTestObject('Account Details Page/Forex Account Details/Forex_cancel_button'))
 
-WebUI.click(findTestObject('User/Account Details Page/Forex Account Details/Confirmation_popup_yes_button'))
+WebUI.click(findTestObject('Account Details Page/Forex Account Details/Confirmation_popup_yes_button'))
 
-WebUI.verifyElementPresent(findTestObject('User/Account Details Page/Forex Account Details/Cancel_forex_account_success_message'), 
+WebUI.verifyElementPresent(findTestObject('Account Details Page/Forex Account Details/Cancel_forex_account_success_message'), 
     0)
 
-WebUI.click(findTestObject('User/Logout_button'))
+WebUI.click(findTestObject('Dashboard Page/Logout_button'))
 
 WebUI.closeBrowser()
 

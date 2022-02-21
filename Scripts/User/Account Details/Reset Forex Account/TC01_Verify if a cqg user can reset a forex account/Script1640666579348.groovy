@@ -27,29 +27,29 @@ WebUI.setText(findTestObject('Login Page/Password_textbox'), GlobalVariable.Pass
 
 WebUI.click(findTestObject('Login Page/Login_button'))
 
-WebUI.click(findTestObject('User/Account Details Page/AccountDetails_link'))
+WebUI.click(findTestObject('Account Details Page/AccountDetails_link'))
 
-WebUI.click(findTestObject('User/Account Details Page/Forex_accordian_button'))
+WebUI.click(findTestObject('Account Details Page/Forex_accordian_button'))
 
-WebUI.click(findTestObject('User/Account Details Page/Forex Account Details/Forex_accordian_drop_details_arrow'))
+WebUI.click(findTestObject('Account Details Page/Forex Account Details/Forex_accordian_drop_details_arrow'))
 
-WebUI.click(findTestObject('User/Account Details Page/Forex Account Details/Forex_reset_button'))
+WebUI.click(findTestObject('Account Details Page/Forex Account Details/Forex_reset_button'))
 
-WebUI.click(findTestObject('User/Account Details Page/CQG Account Details/Credit_card_button'))
+WebUI.click(findTestObject('Account Details Page/CQG Account Details/Credit_card_button'))
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_number_textbox'), GlobalVariable.CardNumber)
+WebUI.setText(findTestObject('Payment-AddAccount Page/Stripe_card_number_textbox'), GlobalVariable.CardNumber)
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_month_textbox'), GlobalVariable.CardDate)
+WebUI.setText(findTestObject('Payment-AddAccount Page/Stripe_card_month_textbox'), GlobalVariable.CardDate)
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_cvc_textbox'), GlobalVariable.CVC)
+WebUI.setText(findTestObject('Payment-AddAccount Page/Stripe_card_cvc_textbox'), GlobalVariable.CVC)
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_name_textbox'), 'John Doe')
+WebUI.setText(findTestObject('Payment-AddAccount Page/Stripe_card_name_textbox'), 'John Doe')
 
-WebUI.click(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_subscribe_button'))
+WebUI.click(findTestObject('Payment-AddAccount Page/Stripe_card_subscribe_button'))
 
-WebUI.verifyElementPresent(findTestObject('User/Account Details Page/Forex Account Details/Reset_forex_success_message'), 0)
+WebUI.verifyElementPresent(findTestObject('Account Details Page/Forex Account Details/Reset_forex_success_message'), 0)
 
-WebUI.click(findTestObject('User/Logout_button'))
+WebUI.click(findTestObject('Dashboard Page/Logout_button'))
 
 WebUI.closeBrowser()
 

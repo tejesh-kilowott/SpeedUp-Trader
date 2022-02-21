@@ -27,35 +27,35 @@ WebUI.setText(findTestObject('Login Page/Password_textbox'), GlobalVariable.Pass
 
 WebUI.click(findTestObject('Login Page/Login_button'))
 
-WebUI.click(findTestObject('User/Account Details Page/AccountDetails_link'))
+WebUI.click(findTestObject('Account Details Page/AccountDetails_link'))
 
-WebUI.click(findTestObject('User/Account Details Page/Add_Forex_Account_button'))
+WebUI.click(findTestObject('Account Details Page/Add_Forex_Account_button'))
 
-WebUI.click(findTestObject('User/Account Details Page/Add Forex Account/120plan_select_button'))
+WebUI.click(findTestObject('Trade-AddForexAccount Page/120plan_select_button'))
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Forex Account/EmailID_textbox'), 'email@email.com')
+WebUI.setText(findTestObject('Payment-AddForexAccount Page/EmailID_textbox'), 'email@email.com')
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Forex Account/Couponcode_textbox'), GlobalVariable.forexCoupon10)
+WebUI.setText(findTestObject('Payment-AddForexAccount Page/Couponcode_textbox'), GlobalVariable.forexCoupon10)
 
-WebUI.click(findTestObject('User/Account Details Page/Add Forex Account/Coupon_apply_button'))
+WebUI.click(findTestObject('Payment-AddForexAccount Page/Coupon_apply_button'))
 
-WebUI.check(findTestObject('User/Account Details Page/Add Futures Account/I_agree_checkbox'))
+WebUI.check(findTestObject('Payment-AddAccount Page/I_agree_checkbox'))
 
-WebUI.click(findTestObject('User/Account Details Page/Add Forex Account/Credit_card_button'))
+WebUI.click(findTestObject('Payment-AddForexAccount Page/Credit_card_button'))
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_number_textbox'), GlobalVariable.CardNumber)
+WebUI.setText(findTestObject('Payment-AddAccount Page/Stripe_card_number_textbox'), GlobalVariable.CardNumber)
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_month_textbox'), GlobalVariable.CardDate)
+WebUI.setText(findTestObject('Payment-AddAccount Page/Stripe_card_month_textbox'), GlobalVariable.CardDate)
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_cvc_textbox'), GlobalVariable.CVC)
+WebUI.setText(findTestObject('Payment-AddAccount Page/Stripe_card_cvc_textbox'), GlobalVariable.CVC)
 
-WebUI.setText(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_name_textbox'), 'John Doe')
+WebUI.setText(findTestObject('Payment-AddAccount Page/Stripe_card_name_textbox'), 'John Doe')
 
-WebUI.click(findTestObject('User/Account Details Page/Add Futures Account/Stripe_card_subscribe_button'))
+WebUI.click(findTestObject('Payment-AddAccount Page/Stripe_card_subscribe_button'))
 
-WebUI.verifyElementPresent(findTestObject('User/Account Details Page/Add Futures Account/add_rhithimc_success_message'), 0)
+WebUI.verifyElementPresent(findTestObject('Payment-AddAccount Page/add_rhithimc_success_message'), 0)
 
-WebUI.click(findTestObject('User/Logout_button'))
+WebUI.click(findTestObject('Dashboard Page/Logout_button'))
 
 WebUI.closeBrowser()
 
